@@ -19,5 +19,5 @@ create_clip('************************************', $youtube_url, 60);
 
 //replace *********************************, with neatclip api key
 // get full live stream url and place the current one from $youtube_url
-// Duration of the clip. Default: "60". <-- soruce from neatclips documentation, i have no clue how this really works
-					    i'm assuming how lomg you would like the clip to be.
+// Duration of the clip. Default: "60". <-- soruce from neatclips documentation, i have no clue how this really works 
+					    i'm assuming how lomg you would like the clip to be. -->
